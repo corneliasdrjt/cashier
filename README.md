@@ -26,7 +26,7 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 
 # Functions / Attributes
   1. add_item
-     
+
      <img width="805" alt="Screenshot 2023-07-07 at 16 20 12" src="https://github.com/corneliasdrjt/cashier/assets/136590789/43b0b042-6f10-462f-a135-d46d0f4cfbf9">
 
       - Untuk proses input nama, jumlah, dan harga atas barang yang dibeli oleh customer
@@ -72,18 +72,22 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 # Test Case
   Test Case 1 
   Menambahkan dua item baru dengan add_item
+  
   <img width="553" alt="Screenshot 2023-07-07 at 16 08 41" src="https://github.com/corneliasdrjt/cashier/assets/136590789/870cbef3-d1a7-4410-801d-d0ac500fe011">
 
   Test Case 2 
   Menghapus salah satu item yang telah diinput menggunakan delete_item
+  
   <img width="541" alt="Screenshot 2023-07-07 at 16 08 54" src="https://github.com/corneliasdrjt/cashier/assets/136590789/a6d57050-f345-48a3-bb62-d1c69ee40f21">
   
   Test Case 3
   Menghapus semua item yang telah diinput reset_transaction
+  
   <img width="556" alt="Screenshot 2023-07-07 at 16 13 27" src="https://github.com/corneliasdrjt/cashier/assets/136590789/cbb68a43-f2ff-43ba-8c7e-93e0b0638f48">
 
   Test Case 4
   Menghitung total belanja
+  
   <img width="796" alt="Screenshot 2023-07-07 at 16 13 37" src="https://github.com/corneliasdrjt/cashier/assets/136590789/fea1af40-5250-4dd0-91a3-2dadd7fcb70c">
 
 
