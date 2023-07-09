@@ -89,7 +89,7 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 
 # Conclusion
   Setelah dilakukan Test Case, program self service cashier dapat berjalan dengan baik, namun masih bisa dilakukan perbaikan-perbaikan atau penambahan fitur, contohnnya:
-    - Ada database produk yang diinput oleh user, sehingga user misalnya hanya perlu menginput nama dan kuantitas barang, kemudian harga barang tersebut bisa langsung muncul.
-    - Membuat sistem membership
-    - Membuat program dengan fitur yang lebih kompleks lainnya.
+  - Ada database produk yang diinput oleh user, sehingga user misalnya hanya perlu menginput nama dan kuantitas barang, kemudian harga barang tersebut bisa langsung muncul.
+  - Membuat sistem membership
+  - Membuat program dengan fitur yang lebih kompleks lainnya.
 
