@@ -6,11 +6,11 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 	2. Proses input nama, jumlah, dan harga atas barang yang dibeli oleh customer
 	3. Proses perubahan input barang yang dibeli oleh customer:
 			- Update nama barang 
-			- Update jumlah barang
+  			- Update jumlah barang
 			- Update harga barang
 	4. Proses pembatalan barang yang dibeli:
-	5. Menghapus salah satu item dari nama item
-	6. Menghapus semua transaksi atau reset transaksi
+			- Menghapus salah satu item dari nama item
+			- Menghapus semua transaksi atau reset transaksi
 	7. Proses checking barang belanjaan dengan ketentuan:
 			- Jika tidak ada kesalahan input, mengeluarkan pesan “Pemesanan sudah benar”
 			- Jika terjadi kesalahan input, mengeluarkan pesan “Terdapat kesalahan input data”
