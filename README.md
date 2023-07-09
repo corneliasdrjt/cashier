@@ -60,7 +60,7 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 
       - Proses checking barang belanjaan yang telah diinput.
   
-  10. total_order
+  10. total_price
       
       <img width="904" alt="Screenshot 2023-07-07 at 16 22 20" src="https://github.com/corneliasdrjt/cashier/assets/136590789/9ed095fe-86a2-4552-ad0b-040aa0221038">
 
