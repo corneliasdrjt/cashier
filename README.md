@@ -11,11 +11,11 @@ Sebuah supermarket besar melakukan perbaikan proses bisnis dengan cara membuat s
 	4. Proses pembatalan barang yang dibeli:
 			- Menghapus salah satu item dari nama item
 			- Menghapus semua transaksi atau reset transaksi
-	7. Proses checking barang belanjaan dengan ketentuan:
+	5. Proses checking barang belanjaan dengan ketentuan:
 			- Jika tidak ada kesalahan input, mengeluarkan pesan “Pemesanan sudah benar”
 			- Jika terjadi kesalahan input, mengeluarkan pesan “Terdapat kesalahan input data”
 			- Mengeluarkan output transaksi atau pemesanan barang yang sudah dibeli
-	8. Setelah proses checking, dilanjutkan dengan proses perhitungan total belanja dengan ketentuan:
+	6. Setelah proses checking, dilanjutkan dengan proses perhitungan total belanja dengan ketentuan:
 			- Jika total belanja di atas Rp 200.000 → diskon 5%
 			- Jika total belanja di atas Rp 300.000 → diskon 8%
 			- Jika total belanja di atas Rp 500.000 → diskon 10%
